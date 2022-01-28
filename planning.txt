@@ -1,0 +1,9 @@
+My Homepage will include an overview of : 'Wildlife animals',
+'Endangered animals' and 'Pet animals'. Images, text and possibly videos will be included.
+Possible bg colours : green, blue, white
+
+My 2nd page will include an infographic about
+'Endangered animals'. Images, text and possibly videos will be included.
+
+My 3rd page will include an infographic about
+'Pet animals'. Images, text and possibly videos will be included.

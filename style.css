@@ -1,0 +1,157 @@
+/* @import url(put link here to import); */
+
+*{
+    background-color: rgba(153, 184, 158, 0.863);
+    box-sizing: border-box;
+    padding: 25px;
+    
+}
+/* This is how to target ALL of your HTML code. */
+
+body{
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    align-items:center;
+    flex-wrap:wrap;
+    background-image: url("background.jpeg")
+    
+
+
+}
+
+h1{
+    color: rgba(51, 19, 197, 0.884);
+    font-size: 30px;
+
+}
+/* This how to target an element within our HTML. */
+
+
+h2{
+    color: rgba(13, 92, 23, 0.856);
+    font-size: 27px;
+
+}
+/* This how to target an element within our HTML. */
+
+
+h3{
+    color: rgb(16, 114, 32);
+    font-size: 23px;
+
+}
+/* This how to target an element within our HTML. */
+
+.welcome {
+    background-color: rgb(59, 180, 110);
+}
+/* This how to target a s class */
+
+
+.welcome2 {
+    background-color: rgb(59, 180, 110);
+}
+/* This how to target a s class */
+
+
+.welcome3 {
+    background-color: rgb(59, 180, 110);
+}
+/* This how to target a s class */
+
+
+.welcome4 {
+    background-color: rgb(59, 180, 110);
+}
+/* This how to target a s class */
+
+
+.welcome5 {
+    background-color: rgba(136, 59, 180, 0.164);
+}
+/* This how to target a s class */
+
+
+
+.large1 {
+    font-size: 21px;
+
+}
+
+.green {
+    background-color: rgba(23, 139, 23, 0.767);
+
+}
+
+
+
+.large2 {
+    font-size: 21px;
+
+}
+
+.violet {
+    background-color: rgb(167, 116, 167);
+
+}
+
+
+
+.large3 {
+    font-size: 21px;
+
+}
+
+.green {
+    background-color: background-color rgba(23, 139, 23, 0.767);
+}
+
+
+
+.large4 {
+    font-size: 21px;
+
+}
+
+.violet {
+    background-color: rgb(167, 116, 167);
+
+}
+
+
+
+.large5 {
+    font-size: 21px;
+
+}
+
+.green {
+    background-color: rgba(23, 139, 23, 0.767);
+
+}
+
+#image1 {
+    width: 45;
+    padding: 0%;
+
+}
+
+#navbar{
+
+    align-items: center;
+    color: ivory;
+    justify-content: center;
+    display: flex;
+}
+
+#navbar a {
+    color: blue;
+    text-decoration: none;
+}
+
+#navbar a:hover {
+    color: coral;
+}
+
+
